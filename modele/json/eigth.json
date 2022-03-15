@@ -1,0 +1,14 @@
+{
+    "name":"Shang-Chi et la Légende des Dix Anneaux",
+    "Auteur":"Destin Daniel Cretton",
+    "equipe":["Simu Liu","Tony Leung Chiu-Wai","Awkwafina"],
+     "Annees":"1 Septembre 2021",
+      "Type":["Fantastique","Action"], 
+      "Durée":{
+          "heures":2,
+          "minutes":12
+      },
+      "Description":"Shang-Chi va devoir affronter un passé qu’il pensait avoir laissé derrière lui lorsqu’il est pris dans la toile de la mystérieuse organisation des dix anneaux", 
+      
+    "Picture":["https://th.bing.com/th/id/R.d6dd810dd12b68eba67e47ec4c7ce650?rik=sqNv%2bLQnhLqcSA&riu=http%3a%2f%2fwww.ost-center.com%2fcontenu%2fcovers%2ffilm%2f28928-01.jpg&ehk=uO74CjyKo3%2fnVYMxHgrdqGCdv0SZ7oTYnWuz6My%2fJ98%3d&risl=&pid=ImgRaw&r=0"]
+}

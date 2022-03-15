@@ -1,0 +1,16 @@
+{
+    "name":"Free Guy",
+    "Auteur":"Shawn Levy",
+    "equipe":["Ryan Reynolds","Jodie Comer","Lil Rel Howery"],
+     "Annees":"11 août 2021",
+      "Type":["Action","Aventure","Comédie"], 
+      "Durée":{
+          "heures":1,
+          "minutes":55
+      },
+      "Description":"Un employé de banque, découvrant un jour qu’il n’est en fait qu’un personnage d’arrière-plan dans un jeu vidéo en ligne, décide de devenir le héros de sa propre histoire, quitte à la réécrire. Evoluant désormais dans un monde qui ne connaît pas de limites, il va tout mettre en œuvre pour le sauver à sa manière, avant qu’il ne soit trop tard…", 
+      
+    "Picture":["https://th.bing.com/th/id/OIP.pW-41W0i00CDNkyxvHON-QHaLu?pid=ImgDet&rs=1"]
+}
+
+

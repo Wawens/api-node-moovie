@@ -1,0 +1,15 @@
+{
+    "name":"ANNETTE",
+    "Auteur":"Leos Carax",
+    "equipe":["Adam Driver","Marion Cotillard","Simon Helberg"],
+     "Annees":"7 juillet 2021 ",
+      "Type":["Comédie musicale","Romance","Drame"], 
+      "Durée":{
+          "heures":2,
+          "minutes":20
+      },
+      "Description":"Los Angeles, de nos jours. Henry est un comédien de stand-up à l’humour féroce. Ann, une cantatrice de renommée internationale. Ensemble, sous le feu des projecteurs, ils forment un couple épanoui et glamour. La naissance de leur premier enfant, Annette, une fillette mystérieuse au destin exceptionnel, va bouleverser leur vie.", 
+      
+    "Picture":["https://th.bing.com/th/id/R.8d7bf6827f91899d39182d9c16e8b85f?rik=53goSD%2fsK%2bWbvg&pid=ImgRaw&r=0"]
+}
+ 

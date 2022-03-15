@@ -1,0 +1,14 @@
+{
+    "name":"Cherry",
+    "Auteur":"Anthony Russo",
+    "equipe":["Tom Holland","Ciara Bravo","Jack Reynor"],
+     "Annees":"1 Avril 2021",
+      "Type":["Biopic","Drame","Thriller"], 
+      "Durée":{
+          "heures":2,
+          "minutes":22
+      },
+      "Description":"Un aide-soignant militaire est de retour de la guerre en Irak. Atteint de stress post-traumatique, il se met à braquer des banques pour financer sa dépendance aux opiacés.", 
+      
+    "Picture":["https://th.bing.com/th/id/R.a6f5a335b2b8969ae6bcb10c384c6ec4?rik=N6999D0QLsfS4Q&pid=ImgRaw&r=0"]
+}

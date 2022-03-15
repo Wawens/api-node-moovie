@@ -1,0 +1,15 @@
+{
+    "name":"RON DÉBLOQUE",
+    "Auteur":"Sarah Smith",
+    "equipe":["Jack Dylan Grazer"," Zach Galifianakis"," Ed Helms"],
+     "Annees":"20 octobre 2021",
+      "Type":["Animation","Famille"," Science fiction"], 
+      "Durée":{
+          "heures":1,
+          "minutes":47
+      },
+      "Description":"L'histoire de Barney, un collégien tout ce qu’il y a de plus normal, et de Ron, une prouesse technologique connectée capable de marcher et de parler, et conçue pour être son meilleur ami. Les dysfonctionnements de Ron à l’ère des réseaux sociaux entrainent le duo dans d’incroyables péripéties au cours desquelles garçon et robot vont découvrir la notion d’amitié sincère au milieu d’un joyeux désordre...", 
+      
+    "Picture":["https://th.bing.com/th/id/OIP.0OLL84STffqN-GcYFXw_8QHaKl?pid=ImgDet&rs=1"]
+}
+

@@ -1,0 +1,14 @@
+{
+    "name":"Un espion ordinaire",
+    "Auteur":"Dominic Cooke",
+    "equipe":["Benedict Cumberbatch","Merab Ninidze","Rachel Brosnahan"],
+     "Annees":"23 Juin 2021",
+      "Type":["Drame","Espionnage","Thriller","Biopic"], 
+      "Durée":{
+          "heures":1,
+          "minutes":52
+      },
+      "Description":"1960. Modeste représentant de commerce anglais, Greville Wynne se retrouve plongé au cœur de la guerre froide. À la demande du MI-6 et de la CIA, il noue une alliance aussi secrète que périlleuse avec le colonel soviétique Oleg Penkovsky. Objectif : fournir les renseignements nécessaires aux Occidentaux pour éviter un affrontement nucléaire et désamorcer la crise des missiles de Cuba. Il entame alors une série d'allers-retours entre Londres et Moscou en prenant de plus en plus de risques…", 
+      
+    "Picture":["https://th.bing.com/th/id/R.26c30b25da55cb3f1776a2c57cf76b90?rik=CTXIDC4Hh%2bhJYA&pid=ImgRaw&r=0"]
+}

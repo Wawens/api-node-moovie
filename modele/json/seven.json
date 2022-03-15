@@ -1,0 +1,15 @@
+{
+    "name":"Raya et le dernier dragon",
+    "Auteur":"Paul Briggs",
+    "equipe":["Emilie Rault","Géraldine Nakache","Jade Phan-Gia"],
+     "Annees":"4 juin 2021",
+      "Type":["Animation","Fantastique","Aventure"], 
+      "Durée":{
+          "heures":1,
+          "minutes":47
+      },
+      "Description":"Il y a de cela fort longtemps, au royaume imaginaire de Kumandra, humains et dragons vivaient en harmonie. Mais un jour, une force maléfique s’abattit sur le royaume et les dragons se sacrifièrent pour sauver l’humanité.Lorsque cette force réapparait cinq siècles plus tard, Raya, une guerrière solitaire, se met en quête du légendaire dernier dragon pour restaurer l’harmonie sur la terre de Kumandra, au sein d’un peuple désormais divisé. Commence pour elle un long voyage au cours duquel elle découvrira qu’il lui faudra bien plus qu’un dragon pour sauver le monde, et que la confiance et l’entraide seront essentiels pour conduire au succès cette périlleuse mission", 
+      
+    "Picture":["https://th.bing.com/th/id/R.3c3d0fee4de80280ffab21fdddb839c7?rik=JHnXKZc0U7kklw&pid=ImgRaw&r=0"]
+}
+

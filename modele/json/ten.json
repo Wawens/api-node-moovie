@@ -1,0 +1,15 @@
+{
+    "name":"Délicieux",
+    "Auteur":"Eric Besnard",
+    "equipe":["Grégory Gadebois","Isabelle Carré","Benjamin Lavernhe"],
+     "Annees":"8 Septembre 2021",
+      "Type":["Comédie","Historique"], 
+      "Durée":{
+          "heures":1,
+          "minutes":53
+      },
+      "Description":"A l’aube de la Révolution Française, Pierre Manceron, cuisinier audacieux mais orgueilleux, est limogé par son maître le duc de Chamfort. La rencontre d’une femme étonnante, qui souhaite apprendre l’art culinaire à ses côtés, lui redonne confiance en lui et le pousse à s’émanciper de sa condition de domestique pour entreprendre sa propre révolution. Ensemble, ils vont inventer un lieu de plaisir et de partage ouvert à tous : le premier restaurant. Une idée qui leur vaudra clients… et ennemis.", 
+      
+    "Picture":["https://www.bing.com/images/search?view=detailV2&ccid=t9eNZVzj&id=F99F0183412E5E6FAB26AF7978B790F64668FCD8&thid=OIP.t9eNZVzjL1nuBEkK-HNPiQHaJ4&mediaurl=https%3a%2f%2fwww.cinehorizons.net%2fsites%2fdefault%2ffiles%2faffiches%2f1191118616-delicieux.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b7d78d655ce32f59ee04490af8734f89%3frik%3d2PxoRvaQt3h5rw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=810&q=D%c3%a9licieux+film&simid=608007343155003727&FORM=IRPRST&ck=5B3711AD30F22AFD485723248D68F175&selectedIndex=0"]
+}
+

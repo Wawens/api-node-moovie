@@ -1,0 +1,15 @@
+{
+    "name":"Blue Bayou",
+    "Auteur":"Justin Chon",
+    "equipe":["Justin Chon","Alicia Vikander","Sydney Kowalske"],
+     "Annees":"15 septembre 2021",
+      "Type":["Drame"], 
+      "Durée":{
+          "heures":1,
+          "minutes":58
+      },
+      "Description":"Antonio LeBlanc, d’origine américano-coréenne, a été adopté et a passé sa vie dans un petit village du Bayou de Louisiane. Aujourd’hui marié à la femme de sa vie, Katy, ils élèvent ensemble Jessie, la fille de cette dernière, issue d’un premier lit. Alors qu’il travaille dur pour offrir ce qu’il y a de meilleur à sa famille, il va devoir affronter les fantômes de son passé en apprenant qu’il risque d’être expulsé du seul pays qu’il ait jamais considéré comme le sien.", 
+      
+    "Picture":["https://th.bing.com/th/id/R.1b434ed65a670bc5a343e66c66b49132?rik=VLIvwC1AdHpGGg&pid=ImgRaw&r=0"]
+}
+
